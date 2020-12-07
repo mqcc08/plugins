@@ -1,0 +1,100 @@
+body{
+    background-color: #f3f3f4;
+}
+.layout-horizontal-bar .main-header{
+    height: 70px;
+}
+.layout-horizontal-bar .main-content-wrap {
+
+    margin-top: 70px;
+
+}
+
+
+
+.main-content{
+    padding: 10px;
+}
+.card{
+    border-radius: 0px;
+}
+.table-hover tbody tr:hover {
+    background-color: #f9f8f8;
+}
+.table th, .table td {
+    border-top: 1px solid #e7eaec;
+    height: 50px;
+}
+.table-hover{
+    background-color: #ffffff;
+    margin-bottom: 0px;
+}
+.card-table,.card-table .card-body{
+    padding: 0;
+}
+.icon-file{
+    width: 30px;
+}
+.icon-file .folder{
+    padding: 1px;
+}
+.file-name{text-align: left}
+.td-checkbox,.td-checkbox label{
+    width: 50px; height: 50px;
+}
+.td-checkbox .checkmark{
+    margin-left: 15px;
+    margin-top: 22px;
+}
+.file-name span:hover,
+.table-header-navigate .accordion span:hover{
+    color: #42B3FF;
+    cursor: pointer;
+}
+.table-header{
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.table-header-navigate{
+    border-top: 1px solid #e7eaec;
+    width: 100%;
+    height: 100%;
+}
+.div-upload{
+    border-top: 1px solid #e7eaec;
+}
+.div-upload .div-bnt-upload{
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.accordion{
+    border-left: 1px solid #e7eaec;
+    height: 41px;
+    text-align: center;
+}
+
+.accordion-item{
+    float: left;
+    font-size: 12px;
+
+}
+.accordion span{
+    line-height: 41px;
+    font-size: 12px;
+}
+.h-title{
+    font-size: 24px;
+}
+#filePicker div:nth-child(2){width:100%!important;height:100%!important;}
+.btn{
+    border-radius: 0px;
+}
+.btn-operate .btn:hover{
+    cursor: pointer;
+
+}
+.btn-operate .btn i:hover{
+    color: #42B3FF;
+}
